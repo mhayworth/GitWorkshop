@@ -14,5 +14,11 @@ class Order {
         items.add("Chicken Sandwich");
         System.out.println("You've added a chicken sandwich. yay");
     }
+    public void addSalad() {
+        totalCost += 6;
+        items.add("Spicy Southwest Salad")
+        System.out.println("You've added a Spicy Southwest Salad. Michael was here")
+        //addvirus.pdf
+    }
 
 }
