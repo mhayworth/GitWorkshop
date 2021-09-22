@@ -16,8 +16,8 @@ class Order {
     }
     public void addSalad() {
         totalCost += 6;
-        items.add("Spicy Southwest Salad")
-        System.out.println("You've added a Spicy Southwest Salad. Michael was here")
+        items.add("Spicy Southwest Salad");
+        System.out.println("You've added a Spicy Southwest Salad. Michael was here");
         //addvirus.pdf
     }
 
